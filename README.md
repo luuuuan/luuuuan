@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Luan
+# 👋 Olá, sou Luan
 
 ### 💻 Java Back-End Developer em formação
 
@@ -11,9 +11,9 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e atualmente trabalho como **Analista de Testes**, onde desenvolvo experiência com análise de sistemas, regras de negócio, testes funcionais e regressão.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e atualmente trabalho como **Analista de Testes**, onde desenvolvo experiência com análise de sistemas, regras de negócio, testes funcionais, negativo, carga, regressão e demais testes para validar a correção/implementação realizada.
 
-Meu objetivo profissional é seguir minha carreira como **Desenvolvedor Java Back-End**, utilizando minha experiência com qualidade de software como diferencial para desenvolver aplicações mais confiáveis e bem estruturadas.
+Meu objetivo profissional é seguir minha carreira como **Desenvolvedor Java**, utilizando minha experiência com qualidade de software como diferencial para desenvolver aplicações mais confiáveis e bem estruturadas.
 
 Atualmente estou focado em **Java, Spring Boot, APIs REST, PostgreSQL e desenvolvimento de sistemas**, além de continuar evoluindo meus conhecimentos em arquitetura e boas práticas.
 
