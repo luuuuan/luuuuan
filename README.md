@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Luan Avila
+# 👋 Olá, eu sou Luan
 
 ### 💻 Java Back-End Developer em formação
 
